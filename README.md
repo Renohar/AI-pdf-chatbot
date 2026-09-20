@@ -1,4 +1,5 @@
 Backend (.NET + Semantic Kernel): PDF text extraction (PdfPig), custom chunking with overlap, embedding generation via Ollama's nomic-embed-text, vector storage/search in Qdrant, and grounded chat completion via llama3.2:1b
+
 Frontend (React + TypeScript): a typed API layer, an upload component with proper loading/error states, and a chat interface — all wired together with CORS
 
 ## How to Run
