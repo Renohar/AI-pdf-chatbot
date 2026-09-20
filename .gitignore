@@ -1,0 +1,19 @@
+# .NET backend
+backend/bin/
+backend/obj/
+backend/*.user
+
+# Frontend (Vite/React)
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Environment/secrets (just in case — see note below)
+*.env
+.env.local
+
+# OS/editor clutter
+.vs/
+.vscode/
+.DS_Store
+Thumbs.db
